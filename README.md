@@ -1,2 +1,0 @@
-# yasir
-yasir.py
